@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 I am Lukas, and I am a software developer based in Vienna, Austria 🇦🇹 
+
 My main focus are Cameras 🎥, 
 
 but I also do some electronics 🔧
 
-and home automation 🏠projects from time to time.
+and home automation 🏠 projects from time to time.
 
 🔭 I’m currently working on lots of go code, embedded linux, funkey protocols and much more
 
