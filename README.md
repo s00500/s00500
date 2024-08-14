@@ -10,7 +10,7 @@ and home automation 🏠 projects from time to time.
 
 🔭 I’m currently working on lots of go code, embedded linux, funkey protocols and much more
 
-🌍 Check my Website: https://lbsfilm.at
+🌍 Check my Website: https://lbs.sh
 
 <!--
 **s00500/s00500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
